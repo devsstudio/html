@@ -1,0 +1,28 @@
+{
+  "name": "@devs-studio/html",
+  "version": "1.0.0",
+  "description": "Manipulación de HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://JeanPaper@bitbucket.org/JeanPaper/devsstudio-html.git"
+  },
+  "keywords": [
+    "html",
+    "dom",
+    "parser"
+  ],
+  "author": "Devs Studio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/JeanPaper/devsstudio-html/issues"
+  },
+  "homepage": "https://bitbucket.org/JeanPaper/devsstudio-html#readme",
+  "dependencies": {
+    "@devs-studio/string": "^1.0.4",
+    "dom-parser": "^0.1.6"
+  }
+}
