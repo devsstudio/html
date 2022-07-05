@@ -1,4 +1,4 @@
-const { getJsonFromHtml, getJsonFromDom } = require("./functions/json");
+const { getJsonFromHtml, getJsonFromDom } = require("./functions/table");
 
 exports.getJsonFromHtml = function (dom, clearFn) {
   return getJsonFromHtml(dom, clearFn);

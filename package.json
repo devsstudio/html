@@ -1,6 +1,6 @@
 {
   "name": "@devs-studio/html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manipulación de HTML",
   "main": "index.js",
   "scripts": {
