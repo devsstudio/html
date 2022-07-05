@@ -57,7 +57,6 @@ exports.getJsonFromDom = (dom, clearFn) => {
 
 const processSpec = (domCells, index, clearFn) => {
   const text = domCells[index].textContent;
-  console.log(text);
 
   if (index < domCells.length - 1) {
     return [
