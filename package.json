@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://JeanPaper@bitbucket.org/JeanPaper/devsstudio-html.git"
+    "url": "https://github.com/devsstudio/html.git"
   },
   "keywords": [
     "html",
@@ -18,9 +18,9 @@
   "author": "Devs Studio",
   "license": "ISC",
   "bugs": {
-    "url": "https://bitbucket.org/JeanPaper/devsstudio-html/issues"
+    "url": "https://github.com/devsstudio/html/issues"
   },
-  "homepage": "https://bitbucket.org/JeanPaper/devsstudio-html#readme",
+  "homepage": "https://github.com/devsstudio/html",
   "dependencies": {
     "@devs-studio/string": "^1.0.4",
     "dom-parser": "^0.1.6"
